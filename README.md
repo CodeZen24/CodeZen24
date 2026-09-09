@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/KhalidTheCoder">
+<a href="https://github.com/CodeZen24">
   <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-Location-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/GMT%2B6-Timezone-0891B2?style=for-the-badge&logo=clockify&logoColor=white" />
@@ -161,9 +161,9 @@ My strongest engineering interests are:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=CBD5E1&ring_color=6366F1&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeZen24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=CBD5E1&ring_color=6366F1&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=CBD5E1" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeZen24&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=CBD5E1" />
 
 </div>
 
@@ -171,7 +171,7 @@ My strongest engineering interests are:
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidTheCoder&hide_border=true&background=0D1117&stroke=1E293B&ring=6366F1&fire=22D3EE&currStreakLabel=818CF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeZen24&hide_border=true&background=0D1117&stroke=1E293B&ring=6366F1&fire=22D3EE&currStreakLabel=818CF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
 
 </div>
 
